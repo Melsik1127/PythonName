@@ -1,3 +1,2 @@
 telebot
 pytelegrambotapi
-sys
